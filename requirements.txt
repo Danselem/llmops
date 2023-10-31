@@ -1,0 +1,13 @@
+notebook
+ipython
+ipykernel
+numpy
+pandas
+openai
+langchain 
+google-search-results 
+chromadb 
+tiktoken
+urllib3
+numexpr
+comet_llm
