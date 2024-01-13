@@ -16,3 +16,4 @@ transformers[torch]
 datasets
 evaluate
 sentencepiece
+python-dotenv
